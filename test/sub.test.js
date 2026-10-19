@@ -13,3 +13,7 @@ test('subtracts a larger number from a smaller one, giving a negative (UC-1)', (
 test('subtracts zero from zero (UC-1)', () => {
   assert.strictEqual(sub(0, 0), 0);
 });
+
+test('subtracts a negative number from a negative one (UC-1)', () => {
+  assert.strictEqual(sub(-1, -1), 0);
+});
