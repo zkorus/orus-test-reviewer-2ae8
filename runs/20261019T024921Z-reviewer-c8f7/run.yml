@@ -5,12 +5,10 @@ role: reviewer
 item: "#2"
 machine: m-dafc84e2
 attempt: 1
-state: running
+state: finished
 resumes: null
 started: 2026-10-19T02:49:21Z
 role_commit: 63ac3f827cc84d85b31a2a787e95b94440724cf4
 head: 202c55a26fd4a2a2f4ad6f357bb3c9866a656b30
-checkpoint:
-  name: action
-  number: 1
-  at: 2026-10-19T02:50:28Z
+ended: 2026-10-19T02:50:36Z
+reason: 1 action performed
