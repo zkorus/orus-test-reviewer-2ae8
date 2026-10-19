@@ -1,0 +1,11 @@
+v: 0
+run: 20261019T025109Z-dev-3922
+repo: zkorus/orus-test-reviewer-2ae8
+role: dev
+item: "#1"
+machine: m-dafc84e2
+attempt: 2
+state: running
+resumes: null
+started: 2026-10-19T02:51:09Z
+role_commit: 63ac3f827cc84d85b31a2a787e95b94440724cf4
